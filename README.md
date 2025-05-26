@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi 👋 I'am Manje Anand 
 
-<!-# 💫 About Me:
 <br><br>I'm **Anand**, a passionate Computer Science enthusiast from Hyderabad, deeply engaged in exploring the realms of software development and modern web technologies. My journey is characterized by a strong inclination towards mastering languages and frameworks that drive today's digital innovations.<br><br>💻 **Technical Interests**<br>I'm actively expanding my knowledge in a diverse set of technologies, including **Java, C, JavaScript, Python, React, Express, Node.js, HTML, and CSS**. This broad spectrum fuels my enthusiasm for building dynamic and responsive applications across various platforms.<br><br>🌐 **Web Development Focus**<br>My primary interest lies in full-stack web development. By delving into both front-end and back-end technologies, I aim to create seamless user experiences and scalable web solutions that address real-world challenges.<br><br>🗣️ **Multilingual Communication**<br>Fluent in **Hindi, English, and Telugu**, I excel at conveying complex technical concepts to diverse audiences, facilitating effective collaboration and knowledge sharing across teams.<br><br>🤝 **Collaboration and Growth**<br>I am eager to connect with fellow developers, tech enthusiasts, and industry professionals who share a passion for innovation and continuous learning. Let's collaborate to push the boundaries of what's possible in technology.<br><br>Feel free to reach out to discuss projects, share insights, or explore opportunities for collaboration<br>
 
 
